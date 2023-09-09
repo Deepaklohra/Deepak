@@ -17,7 +17,7 @@ public class Student
    public static void main(String[] args) {
 	
 	   Student ob=new Student();
-	   ob.age = 24;
+	   ob.age = 155;
 	   ob.rollno = 35;
 	   ob.display1();
 	   ob.display2();
